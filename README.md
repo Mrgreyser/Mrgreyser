@@ -5,4 +5,4 @@
 <p>I want to become a full stack developer</p>
 <p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <p>I'm starting by studying HTML from the <a href="https://www.youtube.com/watch?v=UB1O30fR-EE">Traversy Media lesson</a></p> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
